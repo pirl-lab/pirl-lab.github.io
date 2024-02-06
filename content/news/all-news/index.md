@@ -5,7 +5,7 @@ title: News
 #   focal_point: 'top'
 ---
 
-Oct 2023: Shoken Kaneko successfully completes dissertation defense. Congratulations Shoken 
+Oct 2023: Shoken Kaneko successfully completes dissertation defense. Congratulations Shoken!
 
 Sep 2023: Bowen Zhi and Lee Sharma have differentiable acoustics paper accepted at WASPAA 2023.
 

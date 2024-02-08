@@ -16,24 +16,24 @@ sections:
         
         The **Perceptual Interfaces and Reality Lab (PIRL)** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2002.
   
-- block: collection
-  content:
-    title: Latest News
-    subtitle:
-    text: news/index.md
-    count: 5
-    filters:
-      author: ''
-      category: ''
-      exclude_featured: false
-      publication_type: ''
-      tag: ''
-    offset: 0
-    order: desc
-    page_type: news
-  design:
-    view: card
-    columns: '1'
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text: news/index.md
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: news
+    design:
+      view: card
+      columns: '1'
 
   
   - block: markdown

@@ -12,7 +12,9 @@ sections:
         You can reach us at the following addresses.
       email: ramani@umiacs.umd.edu
       phone: (301) 405-4526
-      address:
+      address: The Perceptive Interface and Reality Lab
+Center for Automation Research
+            Iribe Center Room 4245
         street: 8215 Paint Branch Dr
         city: College Park
         region: MD
@@ -53,7 +55,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: contain
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']

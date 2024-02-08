@@ -1,6 +1,6 @@
 ---
 title: News
-#date: \`r format(Sys.Date(), "%B %d, %Y")`\
+date: {{ time.Now }}
 # image: featured.jpg
 #   focal_point: 'top'
 ---

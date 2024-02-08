@@ -20,8 +20,8 @@ sections:
     content:
       title: Latest News
       subtitle:
-      text: content/news/_index.md
-      count: 5
+      text:
+      count: 8
       filters:
         author: ''
         category: ''

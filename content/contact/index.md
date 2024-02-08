@@ -13,7 +13,7 @@ sections:
       email: ramani@umiacs.umd.edu
       phone: (301) 405-4526
       address:
-        building: Brendan Iribe Center - Room 4245
+        #building: Brendan Iribe Center - Room 4245
         street: 8215 Paint Branch Dr
         city: College Park
         region: MD
@@ -29,14 +29,14 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '1'
 

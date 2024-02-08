@@ -1,6 +1,6 @@
 ---
 title: News
-date: {{ time.Now }}
+date: "{{ now.Format "2006-01-02" }}"
 # image: featured.jpg
 #   focal_point: 'top'
 ---

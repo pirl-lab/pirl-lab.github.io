@@ -20,7 +20,7 @@ sections:
     content:
       title: Latest News
       subtitle:
-      text: news/index.md
+      text: content/news/_index.md
       count: 5
       filters:
         author: ''
@@ -34,7 +34,6 @@ sections:
     design:
       view: card
       columns: '1'
-
   
   - block: markdown
     content:

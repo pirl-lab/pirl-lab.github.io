@@ -1,6 +1,7 @@
 ---
 title: News
-date: !date 2020-10-11
+date: !date 2024-02-07
+#date: `r format(Sys.Date(), "%Y-%m-%d")`'
 # image: featured.jpg
 #   focal_point: 'top'
 ---

@@ -1,6 +1,6 @@
 ---
 title: News
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: \`r format(Sys.Date(), "%B %d, %Y")`\
 # image: featured.jpg
 #   focal_point: 'top'
 ---

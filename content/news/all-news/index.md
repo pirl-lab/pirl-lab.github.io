@@ -1,6 +1,6 @@
 ---
 title: News
-date: "{{ now.Format "2006-01-02" }}"
+date: !date 2020-10-11
 # image: featured.jpg
 #   focal_point: 'top'
 ---

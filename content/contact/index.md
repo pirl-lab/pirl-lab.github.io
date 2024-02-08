@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        You can reach us at the following addresses.
+        Want to learn more about what we do? Contact us at the following addresses!
       email: ramani@umiacs.umd.edu
       phone: (301) 405-4526
       address:

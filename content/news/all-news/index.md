@@ -6,6 +6,7 @@ date: !date 2024-02-07
 #   focal_point: 'top'
 ---
 
+Feb 2024: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines.
 Oct 2023: Shoken Kaneko successfully completes dissertation defense. Congratulations Shoken!  
 Sep 2023: Bowen Zhi and Lee Sharma have differentiable acoustics paper accepted at WASPAA 2023.  
 June 2022: Ramani Duraiswami recieves MURI for "Learning to Mine a Soundscape".  

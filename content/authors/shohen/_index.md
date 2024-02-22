@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ramani Duraiswami
+title: Shohen Kaneko
 
 # Full Name (for SEO)
-first_name: Ramani
-last_name: Duraiswami
+first_name: Shohen
+last_name: Kaneko
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,7 +64,3 @@ highlight_name: true
 user_groups:
   - Visitors
 ---
-
-Ramani Duraiswami is Professor and Associate Chair (for Graduate Studies) at the Department of Computer Science, and in UMIACS, at the University of Maryland. Prof. Duraiswami got his B. Tech. at IIT Bombay, and his Ph.D. at The Johns Hopkins University. After spending a few years working in industry, he joined the University of Maryland, where he established the Perceptual Interfaces and Reality Lab. He has broad research interests, including spatial audio capture rendering and personalization; computer vision; machine learning and scientific computing (with an emphasis on the fast multipole method). 
-
-He has published over 280 peer-reviewed archival papers, co-authored a book,  has several issued patents, and according to Google Scholar has an h-index of 64 (in 2023). Some of his research has been spun out into a startup, VisiSonics, whose technology is in millions of devices. A particular theme of Prof. Duraiswami’s recent research has been understanding the interaction of waves with objects - electromagnetic, acoustic, and visual; and using this understanding for applications in perception and imaging. 

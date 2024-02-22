@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ramani Duraiswami
+title: Lee Sharma
 
 # Full Name (for SEO)
-first_name: Ramani
-last_name: Duraiswami
+first_name: Lee
+last_name: Sharma
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,12 +41,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:ramanid@umd.edu'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=RCmfc0cAAAAJ&hl=en
+  - icon: website
+    link: https://leesharma.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/leesharma
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -18,7 +18,7 @@ role: Adjunct Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: UMIACS
+  - name: University of Maryland
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,8 +26,8 @@ bio: My research interests include spatial audio capture and reproduction.
 
 interests:
   - Spatial Audio Capture 
-  - Computational Linguistics
-  - Information Retrieval
+  - Reproduction
+  - Auditory Scene Analysis
 
 education:
   courses:
@@ -62,7 +62,6 @@ email: 'dz@umiacs.umd.edu'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Dmitry N. Zotkin is an adjunct associate professor in UMIACS and a member of the Perceptual Interfaces and Reality Laboratory, the Center for Automation Research (CfAR), and the Computer Vision Laboratory.

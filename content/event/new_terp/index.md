@@ -2,7 +2,7 @@
 title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines.
 
 # event: Wowchemy Conference
- event_url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars
+event_url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars
 
 # location: Wowchemy HQ
 # address:

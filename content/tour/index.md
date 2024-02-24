@@ -13,17 +13,27 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: tour_pic1.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title:  
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: tour_pic2.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title:  
+        content: ''
+        align: left
+        background:
+          image:
+            filename: tour_pic3.jpg
             filters:
               brightness: 0.7
           position: center

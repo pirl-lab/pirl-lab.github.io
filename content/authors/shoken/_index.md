@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shohen Kaneko
+title: Shoken Kaneko
 
 # Full Name (for SEO)
-first_name: Shohen
+first_name: Shoken
 last_name: Kaneko
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Computer Science
+role: Researcher
 
 # Organizations/Affiliations
 organizations:

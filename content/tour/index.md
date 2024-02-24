@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: assets/media/tour_pic1.jpg
+            filename: tour_pic1.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: assets/media/tour_pic2.jpg
+            filename: tour_pic2.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,13 +33,13 @@ sections:
         align: left
         background:
           image:
-            filename: assets/media/tour_pic3.jpg
+            filename: tour_pic3.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
       - title: PIRL Lab
-        content: 'Just opened last month!'
+        content: ''
         align: right
         background:
           image:

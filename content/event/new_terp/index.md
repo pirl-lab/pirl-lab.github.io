@@ -33,7 +33,13 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/aaron_headshot.jpg?itok=7cSkKNwf)'
   focal_point: Right
-  url: 'https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars'
+
+# Wrap the image inside an anchor tag with the provided link
+<a href="https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars">
+  image:
+    caption: 'Image credit: [**Unsplash**](https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/aaron_headshot.jpg?itok=7cSkKNwf)'
+    focal_point: Right
+</a>
 
 
 url_code: ''

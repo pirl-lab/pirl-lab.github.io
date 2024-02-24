@@ -1,5 +1,6 @@
 ---
-title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines.
+#title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines.
+[Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines.](https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars)
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -22,7 +23,7 @@ title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-02-09T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/aaron_headshot.jpg?itok=7cSkKNwf)'
+  caption: 
   focal_point: Right
   url: 'https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars'
 

@@ -1,21 +1,49 @@
 ---
 # Display name
-title: Siminfar Galougah
+title: Bowen Zhi
 
 # Full Name (for SEO)
-first_name: Siminfar
-last_name: Galougah
+first_name: Bowen
+last_name: Zhi
 
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
 role: PhD student
+
+# Organizations/Affiliations
+organizations:
+  - name: University of Maryland
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Perceptual user interfaces
+  - Spatial audio
+  - Scientific computing
+  - Fast multipole methods
+  - Computer vision
+
+education:
+  courses:
+    - course: PhD
+      institution: Johns Hopkins University
+      year: 1991
+    - course: B.Tech 
+      institution: IIT Bombay
+      year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=VMx-jegAAAAJ
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:bzhi@umd.edu'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -24,6 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'ramanid@umd.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -33,3 +62,4 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
+

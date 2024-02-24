@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Meenakshi Krishnan
+title: James Robertson
 
 # Full Name (for SEO)
-first_name: Meenakshi
-last_name: Krishnan
+first_name: James 
+last_name: Robertson
 
 # Is this the primary user of the site?
 superuser: true

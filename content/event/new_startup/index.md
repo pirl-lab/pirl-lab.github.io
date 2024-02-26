@@ -1,5 +1,5 @@
 ---
-title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in Submarines
+title: Duraiswami’s Startup Collaborates on 3D Spatial Audio System to Improve Military Pilot Performance
 
 # event: Wowchemy Conference
 #event_url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars
@@ -22,7 +22,7 @@ title: Newly Accepted Terp Works to Create Simulation for Collision Avoidance in
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-02-09'
+publishDate: '2024-11-02'
 
 #authors: []
 #tags: []
@@ -34,11 +34,11 @@ image:
   caption: 
   focal_point: Right
   url: 'https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/aaron_headshot.jpg?itok=7cSkKNwf'
-  link: 'https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars'
+  link: 'https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/iStock%20pilot%20helmet.jpg?itok=iBhhuxOq'
 
 links:
   - name: Link
-    url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars
+    url: https://www.umiacs.umd.edu/about-us/news/duraiswami%E2%80%99s-startup-collaborates-3d-spatial-audio-system-improve-military-pilot
 
 url_pdf: ''
 #url_slides: ''

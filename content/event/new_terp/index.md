@@ -37,6 +37,7 @@ image:
   link: 'https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars'
 
 
+url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars
 #url_code: ''
 #url_pdf: ''
 #url_slides: ''

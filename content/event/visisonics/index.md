@@ -22,7 +22,7 @@ title: Gumerov and Duraiswami Receive Funding from Facebook Reality Labs
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2021-05-12'
+publishDate: '2021-05-12'
 
 #authors: []
 #tags: []

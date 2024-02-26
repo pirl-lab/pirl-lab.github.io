@@ -1,5 +1,5 @@
 ---
-title: Gumerov and Duraiswami Receive Funding from Facebook Reality Labs.
+title: Gumerov and Duraiswami Receive Funding from Facebook Reality Labs
 
 # event: Wowchemy Conference
 #event_url: https://www.umiacs.umd.edu/about-us/news/newly-accepted-terp-hopes-internship-will-set-him-path-mars

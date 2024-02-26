@@ -22,7 +22,7 @@ title: Duraiswami’s Startup Collaborates on 3D Spatial Audio System to Improve
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-02'
+publishDate: '2022-11-02'
 
 #authors: []
 #tags: []
@@ -34,7 +34,6 @@ image:
   caption: 
   focal_point: Right
   url: 'https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/aaron_headshot.jpg?itok=7cSkKNwf'
-  link: 'https://www.umiacs.umd.edu/sites/default/files/styles/medium/public/iStock%20pilot%20helmet.jpg?itok=iBhhuxOq'
 
 links:
   - name: Link

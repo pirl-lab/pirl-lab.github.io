@@ -1,5 +1,5 @@
 ---
-title: 'A Closer Look at the Limitations of Instruction Tuning'
+title: 'A Differentiable Image Source Model for Room Acoustics Optimization'
 authors:
   - Bowen Zhi
   - Alisha Sharma

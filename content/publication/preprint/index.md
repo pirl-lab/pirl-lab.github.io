@@ -10,7 +10,7 @@ authors:
   - Ramani Duraiswami
   - Dinesh Manocha
 date: '2024-02-03T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2402.05119'
+#doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-02-03'
@@ -35,8 +35,9 @@ tags:
 featured: false
 
 links:
-  - name: Custom Link
+  - name: Link
     url: https://arxiv.org/abs/2402.05119
+
 url_pdf: https://arxiv.org/pdf/2402.05119.pdf
 #url_code: '#'
 #url_dataset: '#'
@@ -48,10 +49,10 @@ url_pdf: https://arxiv.org/pdf/2402.05119.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
-  preview_only: false
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #focal_point: ''
+  #preview_only: false 
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

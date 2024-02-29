@@ -13,7 +13,7 @@ date: '2024-02-03T00:00:00Z'
 doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-02-03T00:00:00Z'
+publishDate: '2024-02-03'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,13 +38,13 @@ links:
   - name: Custom Link
     url: https://arxiv.org/abs/2402.05119
 url_pdf: https://arxiv.org/pdf/2402.05119.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,4 +69,3 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

@@ -1,15 +1,17 @@
 ---
-title: 'Systems and methods for head related transfer function personalization'
+title: 'Audio control system'
 authors:
   - Ramani Duraiswami
-  - Bowen Zhi
-  - Dmitry Zotkin
+  - Shoken Kaneko
+  - Nail A Gumerov
+  - Nirupam Roy
 
-date: '2023-07-13T00:00:00Z'
+
+date: '2022-11-24T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-7-13'
+publishDate: '2022-11-24'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +23,7 @@ publication_types: ['8']
 publication: ''
 publication_short: ''
 
-abstract: A head-related transfer function (HRTF) generation system includes one or more processors configured to retrieve first image data of a first ear of a subject, compare the first image data with second image data of a plurality of second ears to identify a particular second ear of the plurality of second ears matching the first ear, identify a template HRTF associated with the particular second ear, and assign an HRTF to the subject based on the template HRTF.
+abstract: An audio control system includes at least one microphone, at least one speaker, and one or more processors. The at least one microphone is at a first position adjacent to an ear of a user and configured to detect a sound field at the first position and output a sound signal indicative of the detected sound field. The at least one speaker is at a second position spaced from the first position and configured to output sound responsive to receiving an audio signal. The one or more processors are configured to generate the audio signal based on the sound signal and a target parameter of the sound field at (i) the first position and (ii) a third position spaced from the first position; and provide the audio signal to the at least one speaker to cause the at least one speaker to output the sound responsive to receiving the audio signal.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,9 +34,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://patents.google.com/patent/US20230222687A1/en
+    url: https://patents.google.com/patent/US20220377461A1/en
     
-url_pdf: 'https://patentimages.storage.googleapis.com/0a/b8/2b/c74ab252365dac/US20230222687A1.pdf'
+url_pdf: 'https://patentimages.storage.googleapis.com/50/65/6e/6ef6fbb6627c27/US20220377461A1.pdf'
 
 #url_code: '#'
 #url_dataset: '#'

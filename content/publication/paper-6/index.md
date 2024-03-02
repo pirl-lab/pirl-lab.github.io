@@ -1,14 +1,17 @@
 ---
-title: 'Layer potential quadrature on manifold boundary elements with constant densities for Laplace and Helmholtz kernels in ℝ3'
+title: 'RECAP: Retrieval-Augmented Audio Captioning'
 authors:
-  - Shoken Kaneko
+  - Sreyan Ghosh
+  - Sonal Kumar
+  - Chandra Kiran Reddy Evuru
   - Ramani Duraiswami
+  - Dinesh Manocha
 
-date: '2023-09-14T00:00:00Z'
+date: '2023-09-18T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-9-14'
+publishDate: '2023-09-18'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +23,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method is proposed for evaluation of single and double layer potentials of the Laplace and Helmholtz equations on piecewise smooth manifold boundary elements with constant densities. The method is based on a novel two-term decomposition of the layer potentials, derived by means of differential geometry. The first term is an integral of a differential 2-form which can be reduced to contour integrals using Stokes' theorem, while the second term is related to the element curvature. This decomposition reduces the degree of singularity and the curvature term can be further regularized by a polar coordinate transform. The method can handle singular and nearly singular integrals. Numerical results validating the accuracy of the method are presented for all combinations of single and double layer potentials, for the Laplace and Helmholtz kernels, and for singular and nearly singular integrals.
+abstract: We present RECAP (REtrieval-Augmented Audio CAPtioning), a novel and effective audio captioning system that generates captions conditioned on an input audio and other captions similar to the audio retrieved from a datastore. Additionally, our proposed method can transfer to any domain without the need for any additional fine-tuning. To generate a caption for an audio sample, we leverage an audio-text model CLAP to retrieve captions similar to it from a replaceable datastore, which are then used to construct a prompt. Next, we feed this prompt to a GPT-2 decoder and introduce cross-attention layers between the CLAP encoder and GPT-2 to condition the audio for caption generation. Experiments on two benchmark datasets, Clotho and AudioCaps, show that RECAP achieves competitive performance in in-domain settings and significant improvements in out-of-domain settings. Additionally, due to its capability to exploit a large text-captions-only datastore in a \textit{training-free} fashion, RECAP shows unique capabilities of captioning novel audio events never seen during training and compositional audios with multiple events. To promote research in this space, we also release 150,000+ new weakly labeled captions for AudioSet, AudioCaps, and Clotho.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,9 +34,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2309.07802
-    
-url_pdf: https://arxiv.org/pdf/2309.07802.pdf
+    url: https://arxiv.org/abs/2309.09836
+
+url_pdf: https://arxiv.org/pdf/2309.09836.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

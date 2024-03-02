@@ -1,8 +1,8 @@
 ---
-title: 'Numerical geometric acoustics: An eikonal-based approach for modeling sound propagation in 3D environments'
+title: 'Recursive computation of the multipole expansions of layer potential integrals over simplices for efficient fast multipole accelerated boundary elements'
 authors:
-  - Samuel F Potter
-  - Maria K Cameron
+  - Shoken Kaneko
+  - Nail A. Gumerov
   - Ramani Duraiswami
 
 date: '2023-08-01T00:00:00Z'
@@ -15,13 +15,13 @@ publishDate: '2023-8-01'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-abstract: We present algorithms for solving high-frequency acoustic scattering problems in complex domains. The eikonal and transport partial differential equations from the WKB/geometric optic approximation of the Helmholtz equation are solved recursively to generate boundary conditions for a tree of eikonal/transport equation pairs, describing the phase and amplitude of a geometric optic wave propagating in a complicated domain, including reflection and diffraction. Edge diffraction is modeled using the uniform theory of diffraction. For simplicity, we limit our attention to domains with piecewise linear boundaries and a constant speed of sound. The domain is discretized into a conforming tetrahedron mesh. For the eikonal equation, we extend the jet marching method to tetrahedron meshes. Hermite interpolation enables second order accuracy for the eikonal and its gradient and first order accuracy for its Hessian, computed using cell averaging. To march the eikonal on an unstructured mesh, we introduce a new method of rejecting unphysical updates by considering Lagrange multipliers and local visibility. To handle accuracy degradation near caustics, we introduce several fast Lagrangian initialization algorithms. We store the dynamic programming plan uncovered by the marcher in order to propagate auxiliary quantities along characteristics. We introduce an approximate origin function which is computed using the dynamic programming plan, and whose 1/2-level set approximates the geometric optic shadow and reflection boundaries. We also use it to propagate geometric spreading factors and unit tangent vector fields needed to compute the amplitude and evaluate the high-frequency edge diffraction coefficient. We conduct numerical tests on a semi-infinite planar wedge to evaluate the accuracy of our method. We also show an example with a more realistic building model with challenging architectural features. Finally, we demonstrate a simple approach to extending the method to handle nonconstant speeds of sound by modifying the semi-Lagrangian updates to account for a varying speed.
+abstract: In boundary element methods (BEM) in ℝ3, matrix elements and right hand sides are typically computed via analytical or numerical quadrature of the layer potential multiplied by some function over line, triangle and tetrahedral volume elements. When the problem size gets large, the resulting linear systems are often solved iteratively via Krylov subspace methods, with fast multipole methods (FMM) used to accelerate the matrix vector products needed. When FMM acceleration is used, most entries of the matrix never need be computed explicitly - they are only needed in terms of their contribution to the multipole expansion coefficients. We propose a new fast method - Quadrature to Expansion (Q2X) - for the analytical generation of the multipole expansion coefficients produced by the integral expressions for single and double layers on surface triangles; charge distributions over line segments and over tetrahedra in the volume; so that the overall method is well integrated into the FMM, with controlled error. The method is based on the O(1) per moment cost recursive computation of the moments. The method is developed for boundary element methods involving the Laplace Green's function in ℝ3. The derived recursions are first compared against classical quadrature algorithms, and then integrated into FMM accelerated boundary element and vortex element methods. Numerical tests are presented and discussed.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,7 +32,7 @@ featured: false
 
 links:
   - name: Link
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123002061
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123002139
     
 #url_pdf: ' '
 

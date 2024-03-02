@@ -1,15 +1,14 @@
 ---
-title: 'Recursive computation of the multipole expansions of layer potential integrals over simplices for efficient fast multipole accelerated boundary elements'
+title: 'Layer potential quadrature on manifold boundary elements with constant densities for Laplace and Helmholtz kernels in ℝ3'
 authors:
   - Shoken Kaneko
-  - Nail A. Gumerov
   - Ramani Duraiswami
 
-date: '2023-08-01T00:00:00Z'
+date: '2023-09-14T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-8-01'
+publishDate: '2023-9-14'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +20,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: In boundary element methods (BEM) in ℝ3, matrix elements and right hand sides are typically computed via analytical or numerical quadrature of the layer potential multiplied by some function over line, triangle and tetrahedral volume elements. When the problem size gets large, the resulting linear systems are often solved iteratively via Krylov subspace methods, with fast multipole methods (FMM) used to accelerate the matrix vector products needed. When FMM acceleration is used, most entries of the matrix never need be computed explicitly - they are only needed in terms of their contribution to the multipole expansion coefficients. We propose a new fast method - Quadrature to Expansion (Q2X) - for the analytical generation of the multipole expansion coefficients produced by the integral expressions for single and double layers on surface triangles; charge distributions over line segments and over tetrahedra in the volume; so that the overall method is well integrated into the FMM, with controlled error. The method is based on the O(1) per moment cost recursive computation of the moments. The method is developed for boundary element methods involving the Laplace Green's function in ℝ3. The derived recursions are first compared against classical quadrature algorithms, and then integrated into FMM accelerated boundary element and vortex element methods. Numerical tests are presented and discussed.
+abstract: A method is proposed for evaluation of single and double layer potentials of the Laplace and Helmholtz equations on piecewise smooth manifold boundary elements with constant densities. The method is based on a novel two-term decomposition of the layer potentials, derived by means of differential geometry. The first term is an integral of a differential 2-form which can be reduced to contour integrals using Stokes' theorem, while the second term is related to the element curvature. This decomposition reduces the degree of singularity and the curvature term can be further regularized by a polar coordinate transform. The method can handle singular and nearly singular integrals. Numerical results validating the accuracy of the method are presented for all combinations of single and double layer potentials, for the Laplace and Helmholtz kernels, and for singular and nearly singular integrals.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,10 +31,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0021999123002139
+    url: https://arxiv.org/abs/2309.07802
     
-#url_pdf: ' '
-
+url_pdf: https://arxiv.org/pdf/2309.07802.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

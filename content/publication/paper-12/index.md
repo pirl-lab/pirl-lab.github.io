@@ -1,16 +1,19 @@
 ---
-title: 'Analytical Galerkin boundary integrals of Laplace kernel layer potentials in ℝ3'
+title: 'Rapid Audiometric Evaluation for Personalized Headphone Listening'
 authors:
-  - Nail A. Gumerov
-  - Shoken Kaneko
+  - Matthew J Goupell
+  - Marjan Davoodian
+  - Sarah Weinstein
+  - David Gadzinski
+  - Dmitry N Zotkin
+  - Kaushik Sethunath
   - Ramani Duraiswami
 
-
-date: '2023-02-07T00:00:00Z'
+date: '2023-06-04T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-2-07'
+publishDate: '2023-6-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +25,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method for analytical computation of the double surface integrals for all layer potential kernels associated with the Laplace Green's function, in the Galerkin boundary element method (BEM) in ℝ3 using piecewise constant flat elements is presented. The method uses recursive dimensionality reduction from 4D (ℝ2×ℝ2) based on Gauss' divergence theorem. Computable analytical expressions for all cases of relative location of the source and receiver triangles are covered for the single and double layer potentials and their gradients with analytical treatment of the singular cases are presented. A trick that enables reduction of the case of gradient of the single layer to the same integrals as for the single layer is introduced using symmetry properties. The method was confirmed using analytical benchmark cases, comparisons with error-controlled computations of regular multidimensional integrals, and a convergence study for singular cases.
+abstract: The geometry and material properties of a room dictate its acoustic behavior, which in turn heavily influences the perception of sounds within. Room acoustics models have thus seen use in a broad range of application areas including architecture and interior design, video games, as well as virtual and augmented reality. With recent advances in the development of machine learning, automatic differentiation frameworks have appeared. These frameworks open a promising avenue for research in acoustical signal processing. We investigate the feasibility of using differentiable physics in determining room shape and material to achieve desired acoustical listening characteristics. We present a simple fully differentiable room acoustics simulator and explore its use for gradient-based optimization of room geometry and material properties in proof-of-concept scenarios. Results and applications in various design and inverse problem scenarios are promising.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,9 +36,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2302.03247
+    url: https://ieeexplore.ieee.org/abstract/document/10096310
     
-url_pdf: 'https://arxiv.org/pdf/2302.03247.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096310'
 
 #url_code: '#'
 #url_dataset: '#'

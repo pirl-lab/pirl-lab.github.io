@@ -1,16 +1,16 @@
 ---
-title: 'Recursive Analytical Quadrature of Laplace and Helmholtz Layer Potentials in ℝ3'
+title: 'Analytical Galerkin boundary integrals of Laplace kernel layer potentials in ℝ3'
 authors:
   - Nail A. Gumerov
   - Shoken Kaneko
   - Ramani Duraiswami
 
 
-date: '2023-02-04T00:00:00Z'
+date: '2023-02-07T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-2-04'
+publishDate: '2023-2-07'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method for the analytical evaluation of layer potentials arising in the collocation boundary element method for the Laplace and Helmholtz equation is developed for piecewise flat boundary elements with polynomial shape functions. The method is based on dimension-reduction via the divergence theorem and a Recursive scheme for evaluating the resulting line Integrals for Polynomial Elements (RIPE). It is used to evaluate single layer, double layer, adjoint double layer, and hypersingular potentials, for both the Laplace and the Helmholtz kernels. It naturally supports nearly singular, singular, and hypersingular integrals under a single framework without separate modifications. The developed framework exhibits accuracy and efficiency.
+abstract: A method for analytical computation of the double surface integrals for all layer potential kernels associated with the Laplace Green's function, in the Galerkin boundary element method (BEM) in ℝ3 using piecewise constant flat elements is presented. The method uses recursive dimensionality reduction from 4D (ℝ2×ℝ2) based on Gauss' divergence theorem. Computable analytical expressions for all cases of relative location of the source and receiver triangles are covered for the single and double layer potentials and their gradients with analytical treatment of the singular cases are presented. A trick that enables reduction of the case of gradient of the single layer to the same integrals as for the single layer is introduced using symmetry properties. The method was confirmed using analytical benchmark cases, comparisons with error-controlled computations of regular multidimensional integrals, and a convergence study for singular cases.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -33,9 +33,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2302.02196
+    url: https://arxiv.org/abs/2302.03247
     
-url_pdf: 'https://arxiv.org/pdf/2302.02196.pdf'
+url_pdf: 'https://arxiv.org/pdf/2302.03247.pdf'
 
 #url_code: '#'
 #url_dataset: '#'

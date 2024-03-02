@@ -1,15 +1,16 @@
 ---
-title: 'Systems and methods for head related transfer function personalization'
+title: 'Audio signal processor and generator'
 authors:
+  - Dmitry N Zotkin
+  - Nail A Gumerov
   - Ramani Duraiswami
-  - Bowen Zhi
-  - Dmitry Zotkin
 
-date: '2023-07-13T00:00:00Z'
+
+date: '2022-01-04T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-7-13'
+publishDate: '2022-01-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +22,7 @@ publication_types: ['8']
 publication: ''
 publication_short: ''
 
-abstract: A head-related transfer function (HRTF) generation system includes one or more processors configured to retrieve first image data of a first ear of a subject, compare the first image data with second image data of a plurality of second ears to identify a particular second ear of the plurality of second ears matching the first ear, identify a template HRTF associated with the particular second ear, and assign an HRTF to the subject based on the template HRTF.
+abstract: A spatial-audio recording system includes a spatial-audio recording device including a plurality of microphones, and a computing device. The computing device is configured to determine a plane-wave transfer function for the spatial-audio recording device based on a physical shape of the spatial-audio recording device and to expand the plane-wave transfer function to generate a spherical-harmonics transfer function corresponding to the plane-wave transfer function. The computing device is further configured to retrieve a plurality of signals captured by the microphones, determine spherical-harmonics coefficients for an audio signal based on the plurality of captured signals and the spherical-harmonics transfer function, and generate the audio signal based on the determined spherical-harmonics coefficients.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,9 +33,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://patents.google.com/patent/US20230222687A1/en
+    url: https://patents.google.com/patent/US11218807B2/en
     
-url_pdf: 'https://patentimages.storage.googleapis.com/0a/b8/2b/c74ab252365dac/US20230222687A1.pdf'
+url_pdf: 'https://patentimages.storage.googleapis.com/39/c1/92/2f94b535716076/US11218807.pdf'
 
 #url_code: '#'
 #url_dataset: '#'

@@ -1,15 +1,16 @@
 ---
-title: 'Systems and methods for head related transfer function personalization'
+title: 'Systems and methods for analyzing multichannel wave inputs'
 authors:
-  - Ramani Duraiswami
+  - Nail A Gumerov
   - Bowen Zhi
-  - Dmitry Zotkin
+  - Ramani Duraiswami
 
-date: '2023-07-13T00:00:00Z'
+
+date: '2022-02-22T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-7-13'
+publishDate: '2022-02-22'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +22,7 @@ publication_types: ['8']
 publication: ''
 publication_short: ''
 
-abstract: A head-related transfer function (HRTF) generation system includes one or more processors configured to retrieve first image data of a first ear of a subject, compare the first image data with second image data of a plurality of second ears to identify a particular second ear of the plurality of second ears matching the first ear, identify a template HRTF associated with the particular second ear, and assign an HRTF to the subject based on the template HRTF.
+abstract: A spatial-audio recording system includes a processor, and instructions stored in a computer-readable medium that, when read by the processor, cause the processor to perform operations. The operations include retrieving audio data recorded at a number of microphones, determining a recorded signal vector based on the audio data, and initializing values for an operator. The operations further include determining a plurality of waves from directions by performing operations comprising iteratively, until an exit condition is satisfied - initializing or incrementing an index “i”; determining an ith direction using the operator; and updating the operator to correspond to the ith iteration.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,9 +33,9 @@ featured: false
 
 links:
   - name: Link
-    url: https://patents.google.com/patent/US20230222687A1/en
+    url: https://patents.google.com/patent/US11259115B2/en
     
-url_pdf: 'https://patentimages.storage.googleapis.com/0a/b8/2b/c74ab252365dac/US20230222687A1.pdf'
+url_pdf: 'https://patentimages.storage.googleapis.com/25/06/07/cf3f1001a72a14/US11259115.pdf'
 
 #url_code: '#'
 #url_dataset: '#'

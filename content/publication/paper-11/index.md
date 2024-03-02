@@ -1,14 +1,19 @@
 ---
-title: 'Layer potential quadrature on manifold boundary elements with constant densities for Laplace and Helmholtz kernels in ℝ3'
+title: 'Rapid Audiometric Evaluation for Personalized Headphone Listening'
 authors:
-  - Shoken Kaneko
+  - Matthew J Goupell
+  - Marjan Davoodian
+  - Sarah Weinstein
+  - David Gadzinski
+  - Dmitry N Zotkin
+  - Kaushik Sethunath
   - Ramani Duraiswami
 
-date: '2023-09-14T00:00:00Z'
+date: '2023-06-04T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-9-14'
+publishDate: '2023-6-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +25,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method is proposed for evaluation of single and double layer potentials of the Laplace and Helmholtz equations on piecewise smooth manifold boundary elements with constant densities. The method is based on a novel two-term decomposition of the layer potentials, derived by means of differential geometry. The first term is an integral of a differential 2-form which can be reduced to contour integrals using Stokes' theorem, while the second term is related to the element curvature. This decomposition reduces the degree of singularity and the curvature term can be further regularized by a polar coordinate transform. The method can handle singular and nearly singular integrals. Numerical results validating the accuracy of the method are presented for all combinations of single and double layer potentials, for the Laplace and Helmholtz kernels, and for singular and nearly singular integrals.
+abstract: The geometry and material properties of a room dictate its acoustic behavior, which in turn heavily influences the perception of sounds within. Room acoustics models have thus seen use in a broad range of application areas including architecture and interior design, video games, as well as virtual and augmented reality. With recent advances in the development of machine learning, automatic differentiation frameworks have appeared. These frameworks open a promising avenue for research in acoustical signal processing. We investigate the feasibility of using differentiable physics in determining room shape and material to achieve desired acoustical listening characteristics. We present a simple fully differentiable room acoustics simulator and explore its use for gradient-based optimization of room geometry and material properties in proof-of-concept scenarios. Results and applications in various design and inverse problem scenarios are promising.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,9 +36,10 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2309.07802
+    url: https://ieeexplore.ieee.org/abstract/document/10096310
     
-url_pdf: https://arxiv.org/pdf/2309.07802.pdf
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096310'
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

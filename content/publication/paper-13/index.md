@@ -1,14 +1,16 @@
 ---
-title: 'Layer potential quadrature on manifold boundary elements with constant densities for Laplace and Helmholtz kernels in ℝ3'
+title: 'Recursive Analytical Quadrature of Laplace and Helmholtz Layer Potentials in ℝ3'
 authors:
+  - Nail A. Gumerov
   - Shoken Kaneko
   - Ramani Duraiswami
 
-date: '2023-09-14T00:00:00Z'
+
+date: '2023-02-04T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-9-14'
+publishDate: '2023-2-04'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +22,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method is proposed for evaluation of single and double layer potentials of the Laplace and Helmholtz equations on piecewise smooth manifold boundary elements with constant densities. The method is based on a novel two-term decomposition of the layer potentials, derived by means of differential geometry. The first term is an integral of a differential 2-form which can be reduced to contour integrals using Stokes' theorem, while the second term is related to the element curvature. This decomposition reduces the degree of singularity and the curvature term can be further regularized by a polar coordinate transform. The method can handle singular and nearly singular integrals. Numerical results validating the accuracy of the method are presented for all combinations of single and double layer potentials, for the Laplace and Helmholtz kernels, and for singular and nearly singular integrals.
+abstract: A method for the analytical evaluation of layer potentials arising in the collocation boundary element method for the Laplace and Helmholtz equation is developed for piecewise flat boundary elements with polynomial shape functions. The method is based on dimension-reduction via the divergence theorem and a Recursive scheme for evaluating the resulting line Integrals for Polynomial Elements (RIPE). It is used to evaluate single layer, double layer, adjoint double layer, and hypersingular potentials, for both the Laplace and the Helmholtz kernels. It naturally supports nearly singular, singular, and hypersingular integrals under a single framework without separate modifications. The developed framework exhibits accuracy and efficiency.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,9 +33,10 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2309.07802
+    url: https://arxiv.org/abs/2302.02196
     
-url_pdf: https://arxiv.org/pdf/2309.07802.pdf
+url_pdf: 'https://arxiv.org/pdf/2302.02196.pdf'
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

@@ -1,14 +1,14 @@
 ---
-title: 'Layer potential quadrature on manifold boundary elements with constant densities for Laplace and Helmholtz kernels in ℝ3'
+title: 'Efficient Exact Quadrature of Regular Solid Harmonics Times Polynomials Over Simplices in ℝ3'
 authors:
   - Shoken Kaneko
   - Ramani Duraiswami
 
-date: '2023-09-14T00:00:00Z'
+date: '2023-08-01T00:00:00Z'
 #doi: 'https://doi.org/10.48550/arXiv.2402.05119'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-9-14'
+publishDate: '2023-7-23'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: A method is proposed for evaluation of single and double layer potentials of the Laplace and Helmholtz equations on piecewise smooth manifold boundary elements with constant densities. The method is based on a novel two-term decomposition of the layer potentials, derived by means of differential geometry. The first term is an integral of a differential 2-form which can be reduced to contour integrals using Stokes' theorem, while the second term is related to the element curvature. This decomposition reduces the degree of singularity and the curvature term can be further regularized by a polar coordinate transform. The method can handle singular and nearly singular integrals. Numerical results validating the accuracy of the method are presented for all combinations of single and double layer potentials, for the Laplace and Helmholtz kernels, and for singular and nearly singular integrals.
+abstract: A generalization of a recently introduced recursive numerical method for the exact evaluation of integrals of regular solid harmonics and their normal derivatives over simplex elements in ℝ3 is presented. The original Quadrature to Expansion (Q2X) method achieves optimal per-element asymptotic complexity, however, it considered only constant density functions over the elements. Here, we generalize this method to support arbitrary degree polynomial density functions, which is achieved in an extended recursive framework while maintaining the optimality of the complexity. The method is derived for 1- and 2- simplex elements in ℝ3 and can be used for the boundary element method and vortex methods coupled with the fast multipole method.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,9 +31,10 @@ featured: false
 
 links:
   - name: Link
-    url: https://arxiv.org/abs/2309.07802
+    url: https://arxiv.org/abs/2307.12202
     
-url_pdf: https://arxiv.org/pdf/2309.07802.pdf
+url_pdf: 'https://arxiv.org/pdf/2307.12202.pdf'
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

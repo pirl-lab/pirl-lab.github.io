@@ -1,5 +1,5 @@
 ---
-title: 'Recursive analytical quadrature for the close evaluation of Laplace and Helmholtz layer potentials over flat boundary elements in R3'
+title: 'Recursive analytical quadrature for the close evaluation of Laplace and Helmholtz layer potentials over flat boundary elements in ℝ3'
 authors:
   - Shoken Kaneko
   - Nail A. Gumerov

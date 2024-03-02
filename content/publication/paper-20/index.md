@@ -1,5 +1,5 @@
 ---
-title: 'Laplace Green's functions for infinite ground planes with local roughness'
+title: "Laplace Green's functions for infinite ground planes with local roughness"
 authors:
   - Nail A Gumerov
   - Ramani Duraiswami

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Siminfar Galougah
+title: Siminfar Samakoush Galougah
 
 # Full Name (for SEO)
 first_name: Siminfar

@@ -4,7 +4,7 @@ title: Siminfar Galougah
 
 # Full Name (for SEO)
 first_name: Siminfar
-last_name: Galougah
+last_name: Samakoush Galougah
 
 role: PhD student
 

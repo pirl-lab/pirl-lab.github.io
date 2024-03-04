@@ -43,8 +43,7 @@ education:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=jiJ2DcEAAAAJ&hl
-5DAC444F-A73F-4344-945F-4F68A81E862E_1_201_a.jpeg
+    link: https://scholar.google.com/citations?user=jiJ2DcEAAAAJ&hl=en
 
 
 # Link to a PDF of your resume/CV from the About widget.

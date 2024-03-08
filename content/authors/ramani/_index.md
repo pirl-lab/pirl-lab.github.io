@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
 Ramani Duraiswami is Professor and Associate Chair (for Graduate Studies) at the Department of Computer Science, and in UMIACS, at the University of Maryland. Prof. Duraiswami got his B. Tech. at IIT Bombay, and his Ph.D. at The Johns Hopkins University. After spending a few years working in industry, he joined the University of Maryland, where he established the Perceptual Interfaces and Reality Lab. He has broad research interests, including spatial audio capture rendering and personalization; computer vision; machine learning and scientific computing (with an emphasis on the fast multipole method). 

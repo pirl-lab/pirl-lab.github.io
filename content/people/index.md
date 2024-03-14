@@ -20,6 +20,7 @@ sections:
       sort_ascending: true
     design:
       show_interests: false
+      show_affiliations: true
       show_role: true
       show_social: true
 ---

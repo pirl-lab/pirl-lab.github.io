@@ -27,6 +27,9 @@ interests:
   - Fast multipole methods
   - Computer vision
 
+personal website:
+
+
 education:
   courses:
     - course: PhD
@@ -44,7 +47,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jrober23@umd.edu'
-  - icon: website
+  - icon: globe
+    icon_pack: fas
     link: https://jamesmr13.github.io/
   - icon: github
     icon_pack: fab

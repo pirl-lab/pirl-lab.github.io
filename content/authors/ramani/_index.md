@@ -20,13 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Perceptual user interfaces
-#   - Spatial audio
-#   - Scientific computing
-#   - Fast multipole methods
-#   - Computer vision
-
 affiliations:
   - CS
   - UMIACS
@@ -35,6 +28,13 @@ affiliations:
   - NACS
   - PIRL
   - Robotics Center
+
+interests:
+  - Perceptual user interfaces
+  - Spatial audio
+  - Scientific computing
+  - Fast multipole methods
+  - Computer vision
 
 education:
   courses:

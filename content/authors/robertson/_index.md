@@ -27,9 +27,6 @@ interests:
   - Fast multipole methods
   - Computer vision
 
-personal website:
-
-
 education:
   courses:
     - course: PhD

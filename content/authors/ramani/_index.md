@@ -27,6 +27,15 @@ interests:
   - Fast multipole methods
   - Computer vision
 
+affiliations:
+  - CS
+  - UMIACS
+  - ECE
+  - AMSC
+  - NACS
+  - PIRL
+  - Robotics Center
+
 education:
   courses:
     - course: PhD

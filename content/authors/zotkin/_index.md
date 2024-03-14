@@ -61,7 +61,7 @@ email: 'dz@umiacs.umd.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Visiting Researchers
 ---
 
 Dmitry N. Zotkin is an adjunct associate professor in UMIACS and a member of the Perceptual Interfaces and Reality Laboratory, the Center for Automation Research (CfAR), and the Computer Vision Laboratory.

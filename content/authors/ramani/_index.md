@@ -16,18 +16,16 @@ role: Professor of Computer Science
 organizations:
   - name: University of Maryland
     url: ''
+  - name: CS
+  - name: UMIACS
+  - name: ECE
+  - name: AMSC
+  - name: NACS
+  - name: PIRL
+  - name: Robotics Center
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-affiliations:
-  - CS
-  - UMIACS
-  - ECE
-  - AMSC
-  - NACS
-  - PIRL
-  - Robotics Center
 
 interests:
   - Perceptual user interfaces

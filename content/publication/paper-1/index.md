@@ -37,6 +37,7 @@ featured: false
 links:
   - name: Link
     url: https://arxiv.org/abs/2402.05119
+  - name: AI/ML
 
 url_pdf: https://arxiv.org/pdf/2402.05119.pdf
 #url_code: '#'
